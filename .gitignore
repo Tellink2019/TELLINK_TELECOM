@@ -1,0 +1,14 @@
+# Ignorar arquivos do sistema
+Thumbs.db
+ehthumbs.db
+.DS_Store
+Desktop.ini
+.vscode/
+.idea/
+node_modules/
+
+# Ignorar pastas de cache do navegador
+AppData/
+OneDrive/
+Pictures/
+Saved Games/
