@@ -1,0 +1,11 @@
+:root {
+    --primary: #b30000;
+    --secondary: #c0392b;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+/* Adicione aqui todo o seu CSS */
