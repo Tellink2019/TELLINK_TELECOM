@@ -1,21 +1,11 @@
-cat > README.md << 'EOF'
-# 🚀 Tellink Telecom - Site Oficial
+# Tellink Telecom
 
-![Preview do Site](https://via.placeholder.com/800x400?text=Tellink+Telecom+Preview)
+Site institucional com planos e contato.
 
-## 📌 Sobre
-Site institucional para a Tellink Telecom, mostrando planos de internet e formas de contato.
-
-## 🛠 Tecnologias
+## Tecnologias
 - HTML5
 - CSS3
-- Vercel (para deploy)
+- Vercel
 
-## 📦 Como Usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Tellink2019/TELLINK_TELECOM.git
-      "dest": "public/index.html"
-    }
-  ]
-}
+## Como Usar
+Abra `public/index.html` no navegador.
