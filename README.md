@@ -3,9 +3,10 @@
 Site institucional com planos de internet.
 
 ## Como usar
-Abra o arquivo `public/index.html` no navegador.
+1. Clone o repositório
+2. Abra `public/index.html` no navegador
 
 ## Tecnologias
 - HTML5
 - CSS3
-- Vercel (para deploy)
+- Vercel (deploy)

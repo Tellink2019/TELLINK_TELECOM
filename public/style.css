@@ -1,11 +1,32 @@
 :root {
     --primary: #b30000;
     --secondary: #c0392b;
+    --whatsapp: #25D366;
 }
 
-body {
-    font-family: Arial, sans-serif;
+* {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-/* Adicione aqui todo o seu CSS */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background: white;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.logo {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: var(--primary);
+}
+
+/* Adicione o restante do seu CSS aqui */
